@@ -6,7 +6,7 @@
 - community edition doesn't require any cloud account like azure, aws or gcp
 - Databricks community edition is hosted on AWS services but we don't need an aws account or we don't incur any aws cost, everything will be managed by databricks
 - its completely free of cost
-- Its not time limited, account will be active until and unless we deleted it 
+- It doesn't have an expiry date, account will be active until and unless we deleted it 
 - community edition gives access to maximum of 15GB cluster, cluster manager and notebook features 
 - Notebook supports python, sql, scala and R languages
 - It also supports catalog/table features
