@@ -1,0 +1,22 @@
+## Community Edition
+- Community Edition is the free version with limited edition given by databricks for learning and training purpose.
+- Its the ideal place to get some hands on experience with apache spark with complete free of cost
+
+## Features available in community edition
+- community edition doesn't require any cloud account like azure, aws or gcp
+- Databricks community edition is hosted on AWS services but we don't need an aws account or we don't incur any aws cost, everything will be managed by databricks
+- its completely free of cost
+- Its not time limited, account will be active until and unless we deleted it 
+- community edition gives access to maximum of 15GB cluster, cluster manager and notebook features 
+- Notebook supports python, sql, scala and R languages
+- It also supports catalog/table features
+- with computing feature, 
+     . it supports both all purpose and job compute options
+     . it supports single node and single user option
+     . along with regular run time feature it supports LTS and ML runtime feature
+  [all the mentioned things has been explained in the next document '3.computing']
+
+## signing up the community edition 
+- Open the browser and type > try databricks for free > get community edition > sign up for community edition > enter personal mail id > continue with email 
+- type the verification code received in the mentioned email address
+- Successfully logged into the community edition of databricks - https://community.cloud.databricks.com/
