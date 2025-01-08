@@ -14,7 +14,6 @@
      . it supports both all purpose and job compute options
      . it supports single node and single user option
      . along with regular run time feature it supports LTS and ML runtime feature
-  [all the mentioned things has been explained in the next document '3.computing']
 
 ## signing up the community edition 
 - Open the browser and type > try databricks for free > get community edition > sign up for community edition > enter personal mail id > continue with email 
